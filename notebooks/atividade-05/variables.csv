@@ -1,0 +1,13 @@
+Variables;Description;Type
+fixed acidity;acidez fixa predominante;continua
+volatile acidity;gordura acida em vinhos;continua
+citric acid;acidez citrica em vinhos;continua
+residual sugar;sobra de acucar restante;continua
+chlorides;quantidade de cloreto;continua
+free sulfur dioxide;enxofre nao reagente;continua
+total sulfur dioxide;soma do enxofre reagente e nao reagente;continua
+density;massa por unidade;continua
+pH;nivel de acidez;continua
+sulphates;quantidade de sulfatos;continua
+alcohol;teor alcoolico;continua
+quality;nivel de qualidade;continua
